@@ -2100,6 +2100,66 @@
       ],
       "url": "https://trello.com/c/YtQgllEg/21-monkey-king-warden",
       "closed": false
+    },
+    "6960fe3e7f927db5e56568d8": {
+      "name": "Second Chance Medic",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/7eZuuf1g/22-second-chance-medic",
+      "closed": false
+    },
+    "6960fe44ad5a61da30c1d486": {
+      "name": "Second Chance Engineer",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/L6GWaWZr/23-second-chance-engineer",
+      "closed": false
+    },
+    "6960fe4ff921fc3146be3255": {
+      "name": "Chocolatier Minigunner",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/8QQf5geE/25-chocolatier-minigunner",
+      "closed": false
+    },
+    "6960fe5cd9fd021344b2609e": {
+      "name": "Chocolatier Elf Camp",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/j5jIszCr/27-chocolatier-elf-camp",
+      "closed": false
+    },
+    "6960fe4962888803b226e488": {
+      "name": "Valentines Mortar",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/sunzTCZl/24-valentines-mortar",
+      "closed": false
+    },
+    "6960fe5716b3e9e4dd9d9bb4": {
+      "name": "Lovestriker Electroshocker",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/yDqHV2TR/26-lovestriker-electroshocker",
+      "closed": false
     }
   },
   "lists": {
@@ -2290,5 +2350,5 @@
     "desc": "",
     "url": "https://trello.com/b/vAEgNLL5/tds-workshop-public"
   },
-  "lastCheck": "2026-01-09T13:04:14.349Z"
+  "lastCheck": "2026-01-09T13:48:33.520Z"
 }
