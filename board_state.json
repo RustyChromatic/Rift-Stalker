@@ -2160,6 +2160,36 @@
       "attachments": [],
       "url": "https://trello.com/c/yDqHV2TR/26-lovestriker-electroshocker",
       "closed": false
+    },
+    "6962f5018257fceb2454a7a9": {
+      "name": "Lunar Brawler",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/3A3Moz1w/28-lunar-brawler",
+      "closed": false
+    },
+    "6962f5068917d806cdf972ae": {
+      "name": "Lunar Minigunner",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/ZdvvRg3w/29-lunar-minigunner",
+      "closed": false
+    },
+    "6962f51a8c029a24e8b2e681": {
+      "name": "Lunar Warlock",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/rZ9lwyc0/30-lunar-warlock",
+      "closed": false
     }
   },
   "lists": {
@@ -2350,5 +2380,5 @@
     "desc": "",
     "url": "https://trello.com/b/vAEgNLL5/tds-workshop-public"
   },
-  "lastCheck": "2026-01-11T00:50:25.673Z"
+  "lastCheck": "2026-01-11T03:05:39.949Z"
 }
