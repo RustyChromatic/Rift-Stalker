@@ -12,7 +12,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         },
         {
           "id": "68769dbad8e3a9fd99139a70",
@@ -327,6 +327,176 @@
       "url": "https://trello.com/c/yFpL6Z12/3-%F0%9F%8E%81-reward-war-machine-tower",
       "closed": false
     },
+    "69700f10f781129aa485e97b": {
+      "name": "Firefighter Commander",
+      "desc": "Item Description:\n\n‌\n\n🔗 Submission Thread: [DISCORD THREAD LINK]\n\n🔗 Discord Usernames:\n\n- [DISCORD \\@ HERE]\n\n🔗 Roblox Profiles:\n\n- [LINK HERE]",
+      "idList": "68769df88c31b5e06500bec5",
+      "labels": [
+        {
+          "id": "68769dbad8e3a9fd99139a6f",
+          "idBoard": "68769dbad8e3a9fd99139a05",
+          "idOrganization": "5e5d3a4d7f295033c77bbff5",
+          "name": "Evergreen Skin",
+          "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
+          "color": "green",
+          "uses": 18
+        }
+      ],
+      "idAttachmentCover": "69700f16bbdbbdb5eae842f8",
+      "attachments": [
+        {
+          "id": "69700f16bbdbbdb5eae842f8",
+          "bytes": 223741,
+          "date": "2026-01-20T23:26:14.080Z",
+          "edgeColor": "#1c1c2c",
+          "idMember": "5c258d998c34ec43bbcc0ba9",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "image.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/previews/69700f16bbdbbdb5eae84302/download/image.webp",
+              "_id": "69700f16bbdbbdb5eae84302",
+              "id": "69700f16bbdbbdb5eae84302",
+              "scaled": false,
+              "bytes": 578,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/previews/69700f16bbdbbdb5eae84303/download/image.webp",
+              "_id": "69700f16bbdbbdb5eae84303",
+              "id": "69700f16bbdbbdb5eae84303",
+              "scaled": false,
+              "bytes": 2824,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/previews/69700f16bbdbbdb5eae84304/download/image.webp",
+              "_id": "69700f16bbdbbdb5eae84304",
+              "id": "69700f16bbdbbdb5eae84304",
+              "scaled": true,
+              "bytes": 1438,
+              "height": 46,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/previews/69700f16bbdbbdb5eae84305/download/image.webp",
+              "_id": "69700f16bbdbbdb5eae84305",
+              "id": "69700f16bbdbbdb5eae84305",
+              "scaled": true,
+              "bytes": 3562,
+              "height": 93,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/previews/69700f16bbdbbdb5eae84306/download/image.webp",
+              "_id": "69700f16bbdbbdb5eae84306",
+              "id": "69700f16bbdbbdb5eae84306",
+              "scaled": true,
+              "bytes": 8484,
+              "height": 186,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/previews/69700f16bbdbbdb5eae84307/download/image.webp",
+              "_id": "69700f16bbdbbdb5eae84307",
+              "id": "69700f16bbdbbdb5eae84307",
+              "scaled": true,
+              "bytes": 18716,
+              "height": 372,
+              "width": 1200
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/previews/69700f16bbdbbdb5eae84308/download/image.webp",
+              "_id": "69700f16bbdbbdb5eae84308",
+              "id": "69700f16bbdbbdb5eae84308",
+              "scaled": true,
+              "bytes": 24788,
+              "height": 455,
+              "width": 1468
+            }
+          ],
+          "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f16bbdbbdb5eae842f8/download/image.png",
+          "pos": 140737488355328,
+          "fileName": "image.png"
+        },
+        {
+          "id": "69700f1af8941d3273567498",
+          "bytes": 207550,
+          "date": "2026-01-20T23:26:18.739Z",
+          "edgeColor": "#1e1f29",
+          "idMember": "5c258d998c34ec43bbcc0ba9",
+          "isMalicious": false,
+          "isUpload": true,
+          "mimeType": "image/png",
+          "name": "image.png",
+          "previews": [
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f1af8941d3273567498/previews/69700f1bf8941d32735674b0/download/image.webp",
+              "_id": "69700f1bf8941d32735674b0",
+              "id": "69700f1bf8941d32735674b0",
+              "scaled": false,
+              "bytes": 992,
+              "height": 50,
+              "width": 70
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f1af8941d3273567498/previews/69700f1bf8941d32735674b1/download/image.webp",
+              "_id": "69700f1bf8941d32735674b1",
+              "id": "69700f1bf8941d32735674b1",
+              "scaled": false,
+              "bytes": 4452,
+              "height": 150,
+              "width": 250
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f1af8941d3273567498/previews/69700f1bf8941d32735674b2/download/image.webp",
+              "_id": "69700f1bf8941d32735674b2",
+              "id": "69700f1bf8941d32735674b2",
+              "scaled": true,
+              "bytes": 3620,
+              "height": 131,
+              "width": 150
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f1af8941d3273567498/previews/69700f1bf8941d32735674b3/download/image.webp",
+              "_id": "69700f1bf8941d32735674b3",
+              "id": "69700f1bf8941d32735674b3",
+              "scaled": true,
+              "bytes": 9352,
+              "height": 262,
+              "width": 300
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f1af8941d3273567498/previews/69700f1bf8941d32735674b4/download/image.webp",
+              "_id": "69700f1bf8941d32735674b4",
+              "id": "69700f1bf8941d32735674b4",
+              "scaled": true,
+              "bytes": 22432,
+              "height": 523,
+              "width": 600
+            },
+            {
+              "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f1af8941d3273567498/previews/69700f1bf8941d32735674b5/download/image.webp",
+              "_id": "69700f1bf8941d32735674b5",
+              "id": "69700f1bf8941d32735674b5",
+              "scaled": true,
+              "bytes": 25328,
+              "height": 560,
+              "width": 642
+            }
+          ],
+          "url": "https://trello.com/1/cards/69700f10f781129aa485e97b/attachments/69700f1af8941d3273567498/download/image.png",
+          "pos": 140737488371712,
+          "fileName": "image.png"
+        }
+      ],
+      "url": "https://trello.com/c/zjQAT4ur/31-firefighter-commander",
+      "closed": false
+    },
     "695811d678257a31576fbf99": {
       "name": "Generic Commander",
       "desc": "Item Description: this is not related to christmas submission\n\nuse custom radio model\n\nuse custom sig m17 for level0 to level 3\n\nuse tds deagle for level 4\n\nevery level is under 11k tris, weapon and radio is 2k+ tris\n\n‌\n\n🔗 Submission Thread: [https://discord.com/channels/1260696854300065876/1423323971209920633](https://discord.com/channels/1260696854300065876/1423323971209920633 \"smartCard-inline\")\n\n🔗 Discord Usernames:\n\n- .uncalled\n\n🔗 Roblox Profiles:\n\n- [LINK HERE]",
@@ -339,7 +509,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69581204385dfd40a70f007a",
@@ -500,7 +670,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "695812472772082d09cbf371",
@@ -679,7 +849,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600befa6357dd0c44b57d1",
@@ -779,7 +949,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600c2bf96f17825607b935",
@@ -879,7 +1049,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600cd32e77d195a4287ff6",
@@ -979,7 +1149,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600d0435e895a09edb9d6a",
@@ -1079,7 +1249,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600d2d501054579369495a",
@@ -1179,7 +1349,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600d5142ba62a3d38fe3af",
@@ -1279,7 +1449,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600daa8de87833a020ee82",
@@ -1379,7 +1549,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600dcb8f1e8faa741d1efb",
@@ -1470,7 +1640,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600df1aadcb37df0375e7a",
@@ -1552,7 +1722,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600e1425f9a1e5a8f26cc9",
@@ -1652,7 +1822,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600c6e3290fbf397f2f943",
@@ -1752,7 +1922,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600e937d63364610c45916",
@@ -1833,7 +2003,7 @@
     },
     "69600ec048c19fe303606488": {
       "name": "Starfall Engineer",
-      "desc": "Item Description:\n\n‌\n\n🔗 Submission Thread: [DISCORD THREAD LINK]\n\n🔗 Discord Usernames:\n\n- [DISCORD \\@ HERE]\n\n🔗 Roblox Profiles:\n\n- [LINK HERE]",
+      "desc": "Item Description:\n\n‌\n\n🔗 Submission Thread: [https://discord.com/channels/1260696854300065876/1457287281252503623](https://discord.com/channels/1260696854300065876/1457287281252503623 \"smartCard-inline\")\n\n🔗 Discord Usernames:\n\n- enbycoated\n\n🔗 Roblox Profiles:\n\n- [LINK HERE]",
       "idList": "68769df88c31b5e06500bec5",
       "labels": [
         {
@@ -1843,7 +2013,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600ec538d86c8ee285b4f1",
@@ -2013,7 +2183,7 @@
           "name": "Evergreen Skin",
           "nodeId": "ari:cloud:trello::label/workspace/5e5d3a4d7f295033c77bbff5/68769dbad8e3a9fd99139a6f",
           "color": "green",
-          "uses": 17
+          "uses": 18
         }
       ],
       "idAttachmentCover": "69600f54c57184aae7d3450c",
@@ -2380,5 +2550,5 @@
     "desc": "",
     "url": "https://trello.com/b/vAEgNLL5/tds-workshop-public"
   },
-  "lastCheck": "2026-01-20T22:55:30.301Z"
+  "lastCheck": "2026-01-20T23:31:16.073Z"
 }
