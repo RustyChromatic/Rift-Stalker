@@ -2282,13 +2282,13 @@
       "closed": false
     },
     "6960fe44ad5a61da30c1d486": {
-      "name": "Second Chance Engineer",
+      "name": "Chocolatier Trapper",
       "desc": "",
       "idList": "68769dffa6a89104984b4e66",
       "labels": [],
       "idAttachmentCover": null,
       "attachments": [],
-      "url": "https://trello.com/c/L6GWaWZr/23-second-chance-engineer",
+      "url": "https://trello.com/c/L6GWaWZr/23-chocolatier-trapper",
       "closed": false
     },
     "6960fe4ff921fc3146be3255": {
@@ -2359,6 +2359,56 @@
       "idAttachmentCover": null,
       "attachments": [],
       "url": "https://trello.com/c/rZ9lwyc0/30-lunar-warlock",
+      "closed": false
+    },
+    "697ef952df2c2fc591651315": {
+      "name": "Leprechaun Rocketeer",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/U1TsOyCh/32-leprechaun-rocketeer",
+      "closed": false
+    },
+    "697ef9591bab49daeb9377eb": {
+      "name": "Shamrock Cowboy",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/BAffmVeM/33-shamrock-cowboy",
+      "closed": false
+    },
+    "697ef95cded2cfe41af2ad62": {
+      "name": "Shamrock Warden",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/5z43aYz9/34-shamrock-warden",
+      "closed": false
+    },
+    "697ef95ee9c311746774da14": {
+      "name": "Shamrock Medic",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/Nuy5CLWk/35-shamrock-medic",
+      "closed": false
+    },
+    "697ef9631c0d06541ddbd5d6": {
+      "name": "Springtime Engineer",
+      "desc": "",
+      "idList": "68769dffa6a89104984b4e66",
+      "labels": [],
+      "idAttachmentCover": null,
+      "attachments": [],
+      "url": "https://trello.com/c/e2eDbjJ5/36-springtime-engineer",
       "closed": false
     }
   },
@@ -2550,5 +2600,5 @@
     "desc": "",
     "url": "https://trello.com/b/vAEgNLL5/tds-workshop-public"
   },
-  "lastCheck": "2026-02-01T06:09:27.659Z"
+  "lastCheck": "2026-02-01T07:07:09.751Z"
 }
