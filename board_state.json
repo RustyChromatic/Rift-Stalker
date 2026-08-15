@@ -2470,7 +2470,7 @@
     },
     "68769df88c31b5e06500bec5": {
       "id": "68769df88c31b5e06500bec5",
-      "name": "🗳��� Backlog / Submitted",
+      "name": "🗳️ Backlog / Submitted",
       "closed": false,
       "color": null,
       "idBoard": "68769dbad8e3a9fd99139a05",
@@ -2624,5 +2624,5 @@
     "desc": "",
     "url": "https://trello.com/b/vAEgNLL5/tds-workshop-public"
   },
-  "lastCheck": "2026-08-15T01:36:34.045Z"
+  "lastCheck": "2026-08-15T02:37:30.850Z"
 }
