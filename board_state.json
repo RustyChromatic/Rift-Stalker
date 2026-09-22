@@ -55,6 +55,7 @@
       "attachments": [
         {
           "id": "69580fe6990cb9fff39f0a98",
+          "aiSummary": null,
           "bytes": 4372589,
           "date": "2026-01-02T18:35:18.973Z",
           "edgeColor": "#6d4b45",
@@ -166,6 +167,7 @@
       "attachments": [
         {
           "id": "69581004b2068793edc850f6",
+          "aiSummary": null,
           "bytes": 451822,
           "date": "2026-01-02T18:35:48.365Z",
           "edgeColor": "#3c424d",
@@ -248,6 +250,7 @@
       "attachments": [
         {
           "id": "695810483f133591234372ce",
+          "aiSummary": null,
           "bytes": 372596,
           "date": "2026-01-02T18:36:56.498Z",
           "edgeColor": "#33343c",
@@ -349,6 +352,7 @@
       "attachments": [
         {
           "id": "69700f16bbdbbdb5eae842f8",
+          "aiSummary": null,
           "bytes": 223741,
           "date": "2026-01-20T23:26:14.080Z",
           "edgeColor": "#1c1c2c",
@@ -429,6 +433,7 @@
         },
         {
           "id": "69700f1af8941d3273567498",
+          "aiSummary": null,
           "bytes": 207550,
           "date": "2026-01-20T23:26:18.739Z",
           "edgeColor": "#1e1f29",
@@ -521,6 +526,7 @@
       "attachments": [
         {
           "id": "695811fdae0ffdec92d7d72d",
+          "aiSummary": null,
           "bytes": 169171,
           "date": "2026-01-02T18:44:13.561Z",
           "edgeColor": "#38382d",
@@ -601,6 +607,7 @@
         },
         {
           "id": "69581204385dfd40a70f007a",
+          "aiSummary": null,
           "bytes": 93533,
           "date": "2026-01-02T18:44:20.592Z",
           "edgeColor": "#e0dfdf",
@@ -684,6 +691,7 @@
       "attachments": [
         {
           "id": "695812472772082d09cbf371",
+          "aiSummary": null,
           "bytes": 1625792,
           "date": "2026-01-02T18:45:27.281Z",
           "edgeColor": "#3c3c3c",
@@ -764,6 +772,7 @@
         },
         {
           "id": "6958124e3ddf6a6addc1379b",
+          "aiSummary": null,
           "bytes": 2009716,
           "date": "2026-01-02T18:45:34.827Z",
           "edgeColor": "#3c3c3c",
@@ -865,6 +874,7 @@
       "attachments": [
         {
           "id": "69600befa6357dd0c44b57d1",
+          "aiSummary": null,
           "bytes": 4120665,
           "date": "2026-01-08T19:56:31.503Z",
           "edgeColor": "#180a06",
@@ -966,6 +976,7 @@
       "attachments": [
         {
           "id": "69600c2bf96f17825607b935",
+          "aiSummary": null,
           "bytes": 369130,
           "date": "2026-01-08T19:57:31.447Z",
           "edgeColor": "#2c1c24",
@@ -1067,6 +1078,7 @@
       "attachments": [
         {
           "id": "69600cd32e77d195a4287ff6",
+          "aiSummary": null,
           "bytes": 278705,
           "date": "2026-01-08T20:00:19.238Z",
           "edgeColor": "#bbb6b4",
@@ -1168,6 +1180,7 @@
       "attachments": [
         {
           "id": "69600d0435e895a09edb9d6a",
+          "aiSummary": null,
           "bytes": 345430,
           "date": "2026-01-08T20:01:08.689Z",
           "edgeColor": "#bcb7b4",
@@ -1269,6 +1282,7 @@
       "attachments": [
         {
           "id": "69600d2d501054579369495a",
+          "aiSummary": null,
           "bytes": 1333704,
           "date": "2026-01-08T20:01:49.436Z",
           "edgeColor": "#0a0817",
@@ -1370,6 +1384,7 @@
       "attachments": [
         {
           "id": "69600d5142ba62a3d38fe3af",
+          "aiSummary": null,
           "bytes": 336785,
           "date": "2026-01-08T20:02:25.250Z",
           "edgeColor": "#141413",
@@ -1471,6 +1486,7 @@
       "attachments": [
         {
           "id": "69600daa8de87833a020ee82",
+          "aiSummary": null,
           "bytes": 291436,
           "date": "2026-01-08T20:03:54.002Z",
           "edgeColor": "#040404",
@@ -1572,6 +1588,7 @@
       "attachments": [
         {
           "id": "69600dcb8f1e8faa741d1efb",
+          "aiSummary": null,
           "bytes": 429631,
           "date": "2026-01-08T20:04:27.121Z",
           "edgeColor": "#a2a2a4",
@@ -1664,6 +1681,7 @@
       "attachments": [
         {
           "id": "69600df1aadcb37df0375e7a",
+          "aiSummary": null,
           "bytes": 272988,
           "date": "2026-01-08T20:05:05.526Z",
           "edgeColor": "#34353e",
@@ -1747,6 +1765,7 @@
       "attachments": [
         {
           "id": "69600e1425f9a1e5a8f26cc9",
+          "aiSummary": null,
           "bytes": 373217,
           "date": "2026-01-08T20:05:40.049Z",
           "edgeColor": "#242c2c",
@@ -1848,6 +1867,7 @@
       "attachments": [
         {
           "id": "69600c6e3290fbf397f2f943",
+          "aiSummary": null,
           "bytes": 563392,
           "date": "2026-01-08T19:58:38.809Z",
           "edgeColor": "#440404",
@@ -1949,6 +1969,7 @@
       "attachments": [
         {
           "id": "69600e937d63364610c45916",
+          "aiSummary": null,
           "bytes": 384491,
           "date": "2026-01-08T20:07:47.410Z",
           "edgeColor": "#404c61",
@@ -2041,6 +2062,7 @@
       "attachments": [
         {
           "id": "69600ec538d86c8ee285b4f1",
+          "aiSummary": null,
           "bytes": 513632,
           "date": "2026-01-08T20:08:37.557Z",
           "edgeColor": "#2c2c34",
@@ -2121,6 +2143,7 @@
         },
         {
           "id": "69600eda994fee27295b93ce",
+          "aiSummary": null,
           "bytes": 506526,
           "date": "2026-01-08T20:08:58.205Z",
           "edgeColor": "#2a2c34",
@@ -2213,6 +2236,7 @@
       "attachments": [
         {
           "id": "69600f54c57184aae7d3450c",
+          "aiSummary": null,
           "bytes": 303826,
           "date": "2026-01-08T20:11:00.673Z",
           "edgeColor": "#c4bab4",
@@ -2624,5 +2648,5 @@
     "desc": "",
     "url": "https://trello.com/b/vAEgNLL5/tds-workshop-public"
   },
-  "lastCheck": "2026-09-22T11:40:55.215Z"
+  "lastCheck": "2026-09-22T15:44:37.961Z"
 }
